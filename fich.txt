@@ -1,2 +1,3 @@
 my first file
 C'est la deuxième ligne du fichier
+Ligne 3
